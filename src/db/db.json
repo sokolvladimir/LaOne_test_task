@@ -1,0 +1,121 @@
+{
+    "5341527839646680878": {
+        "id": "5341527839646680878",
+        "question": "dxfs",
+        "options": [
+            {
+                "text": "sdfs",
+                "voter_count": 0
+            },
+            {
+                "text": "sdfdsf",
+                "voter_count": 0
+            }
+        ],
+        "total_voter_count": 0,
+        "is_closed": false,
+        "is_anonymous": true,
+        "type": "regular",
+        "allows_multiple_answers": false
+    },
+    "5341527839646680880": {
+        "id": "5341527839646680880",
+        "question": "dsfsd",
+        "options": [
+            {
+                "text": "fsddsfdfs",
+                "voter_count": 0
+            },
+            {
+                "text": "dfsdfsfds",
+                "voter_count": 0
+            }
+        ],
+        "total_voter_count": 0,
+        "is_closed": false,
+        "is_anonymous": true,
+        "type": "regular",
+        "allows_multiple_answers": false
+    },
+    "5341527839646680897": {
+        "question": "dsfd",
+        "options": [
+            "sdfsd",
+            "sdfdsfsf",
+            "dfssdffds"
+        ],
+        "is_anonymous": true,
+        "type": "regular",
+        "allows_multiple_answers": false
+    },
+    "5341527839646680958": {
+        "question": "sdf",
+        "options": [
+            "sdf",
+            "sdf"
+        ],
+        "is_anonymous": true,
+        "type": "regular",
+        "allows_multiple_answers": false
+    },
+    "5341527839646680988": {
+        "question": "\u0412\u041e\u043f\u0440\u043e\u0441",
+        "options": [
+            "\u041e\u0442\u0432\u0435\u0442 1",
+            "\u041e\u0442\u0432\u0435\u0442 2"
+        ],
+        "is_anonymous": false,
+        "type": "regular",
+        "allows_multiple_answers": false
+    },
+    "5341527839646680990": {
+        "question": "sdfsd",
+        "options": [
+            "sdfdfs",
+            "sdfdfs"
+        ],
+        "is_anonymous": true,
+        "type": "regular",
+        "allows_multiple_answers": false
+    },
+    "5341527839646680991": {
+        "question": "sdfsdfsd",
+        "options": [
+            "dsfdsfsdf",
+            "fdsdfsdf"
+        ],
+        "is_anonymous": true,
+        "type": "regular",
+        "allows_multiple_answers": false
+    },
+    "5341527839646680992": {
+        "question": "\u044b\u0432\u0430\u044b\u0432",
+        "options": [
+            "\u0432\u044b\u0430\u0432\u0430\u044b",
+            "\u0432\u0430\u0430\u0432\u044b\u0430\u0432\u044b"
+        ],
+        "is_anonymous": true,
+        "type": "regular",
+        "allows_multiple_answers": false
+    },
+    "5341527839646680993": {
+        "question": "\u0432\u044b\u0430\u044b\u0432",
+        "options": [
+            "\u0432\u044b\u0430\u0432\u044b\u0430",
+            "\u0430\u0432\u044b\u0430\u0432\u044b\u0430\u0432\u044b"
+        ],
+        "is_anonymous": true,
+        "type": "regular",
+        "allows_multiple_answers": false
+    },
+    "5341527839646680995": {
+        "question": "dsfdsf",
+        "options": [
+            "dsfdsf",
+            "dsfdsf"
+        ],
+        "is_anonymous": true,
+        "type": "regular",
+        "allows_multiple_answers": false
+    }
+}
